@@ -1,0 +1,43 @@
+{
+  "version": 1,
+  "data": [
+    "ransomware",
+    "data breach",
+    "data leak",
+    "compromise",
+    "intrusion",
+    "incident",
+    "security incident",
+    "cyber attack",
+    "cyberattack",
+    "attack campaign",
+
+    "phishing",
+    "spear phishing",
+    "credential theft",
+    "credential harvesting",
+    "account takeover",
+
+    "malware",
+    "infostealer",
+    "stealer",
+    "loader",
+    "trojan",
+    "backdoor",
+    "web shell",
+
+    "botnet",
+    "ddos",
+    "command and control",
+    "c2",
+
+    "lateral movement",
+    "initial access",
+    "persistence",
+    "privilege escalation",
+
+    "exfiltration",
+    "data exfiltration",
+    "data theft"
+  ]
+}
