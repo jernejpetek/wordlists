@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "data": [
+    "src",
+    "src d.o.o",
+    "sistemske integracije",
+
+    "customer",
+    "client",
+    "partner",
+    "tenant",
+
+    "vpn",
+    "remote access",
+    "gateway",
+    "firewall",
+    "edge device",
+
+    "identity",
+    "authentication",
+    "active directory",
+    "entra",
+    "sso",
+    "mfa",
+
+    "email",
+    "mail server",
+    "exchange",
+    "smtp",
+    "phishing protection",
+
+    "cloud",
+    "azure",
+    "virtual machine",
+    "vm",
+    "container",
+    "kubernetes",
+
+    "backup",
+    "disaster recovery",
+    "business continuity",
+
+    "endpoint",
+    "workstation",
+    "server",
+    "infrastructure",
+    "datacenter"
+  ]
+}
