@@ -1,0 +1,58 @@
+{
+  "version": 1,
+  "data": [
+    "banking",
+    "finance",
+    "financial sector",
+    "fintech",
+    "banka",
+    "zavarovalnica",
+    "insurance",
+
+    "healthcare",
+    "hospital",
+    "medical",
+    "zdravstvo",
+    "bolnišnica",
+    "pharma",
+    "pharmaceutical",
+
+    "government",
+    "public sector",
+    "state",
+    "municipality",
+    "javna uprava",
+    "ministrstvo",
+
+    "critical infrastructure",
+    "energy",
+    "utilities",
+    "power grid",
+    "electricity",
+    "oil",
+    "gas",
+
+    "telecommunications",
+    "telecom",
+    "isp",
+    "internet provider",
+
+    "transport",
+    "logistics",
+    "railway",
+    "aviation",
+    "shipping",
+
+    "manufacturing",
+    "industrial",
+    "ics",
+    "scada",
+    "ot",
+    "operational technology",
+
+    "education",
+    "university",
+    "school",
+    "research"
+  ]
+}
