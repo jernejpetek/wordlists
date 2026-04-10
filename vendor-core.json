@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "data": [
+    "cisco",
+    "ios xe",
+    "ios xr",
+    "nx-os",
+    "asa",
+    "ftd",
+    "firepower",
+    "ise",
+    "duo",
+    "meraki",
+    "catalyst",
+    "sd-wan",
+
+    "microsoft",
+    "windows",
+    "active directory",
+    "entra",
+    "azure",
+    "microsoft 365",
+    "office 365",
+    "exchange",
+    "sharepoint",
+    "teams",
+    "defender",
+    "hyper-v",
+
+    "palo alto",
+    "pan-os",
+    "globalprotect",
+    "prisma",
+    "cortex",
+    "wildfire",
+
+    "fortinet",
+    "fortigate",
+    "fortios",
+    "fortimanager",
+    "fortianalyzer",
+    "forticlient",
+    "fortiguard"
+  ]
+}
