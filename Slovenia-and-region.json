@@ -1,0 +1,46 @@
+{
+  "version": 1,
+  "data": [
+    "slovenia",
+    "slovenija",
+    "slovene",
+    "si-cert",
+    "sigov-cert",
+    "ursiv",
+
+    "ljubljana",
+    "maribor",
+    "koper",
+    "celje",
+    "kranj",
+    "novo mesto",
+    "velenje",
+    "ptuj",
+    "nova gorica",
+    "murska sobota",
+
+    "europe",
+    "european union",
+    "eu",
+    "nato",
+    "cee",
+    "central europe",
+    "balkans",
+
+    "government",
+    "public sector",
+    "state",
+    "municipality",
+    "critical infrastructure",
+
+    "healthcare",
+    "hospital",
+    "zdravstvo",
+    "bolnišnica",
+
+    "banking",
+    "finance",
+    "banka",
+    "zavarovalnica"
+  ]
+}
